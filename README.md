@@ -1,7 +1,3 @@
-Certainly, here's a more detailed and professional `README.md` file for your Dash project:
-
----
-
 # Dash - Empowering Web3 Accessibility
 
 ## About Us
