@@ -1306,18 +1306,3 @@
   color: #fff;
   font-family: Montserrat;
 }
-.button5,
-.button6 {
-    width: 100px; /* Adjust width as needed */
-    text-align: center;
-    background-color: #4caf50;
-    color: white;
-    padding: 10px;
-    border-radius: 25px; /* Half of the height to create a circle */
-    cursor: pointer;
-}
-.button5:hover,
-.button6:hover {
-    background-color: #45a049;
-}
-
